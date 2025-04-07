@@ -8,13 +8,6 @@ The presentation was created and presented using `manim-slides` by converting it
 
 ```sh
 manim present.py Titel Gliederung Superposition Verschraenkung BitsVergleich Gatter Parallel TSP Multiversum Ionen Herausforderungen Willow Anwendung RSA Zahl Fazit Quellen && \
-manim-slides convert Titel Gliederung Superposition Verschraenkung BitsVergleich Gatter Parallel TSP Multiversum Ionen Herausforderungen Willow Anwendung RSA Zahl Fazit Quellen
-```
-
-### Rendering
-
-```sh
-manim-slides convert Titel Gliederung Superposition Verschraenkung BitsVergleich Gatter Parallel TSP Multiversum Ionen Herausforderungen Willow Anwendung RSA Zahl Fazit Quellen && \
 manim-slides convert Titel Gliederung Superposition Verschraenkung BitsVergleich Gatter Parallel TSP Multiversum Ionen Herausforderungen Willow Anwendung RSA Zahl Fazit Quellen presentation.py
 ```
 
