@@ -7,7 +7,7 @@ A presentation created using [Manim](https://www.manim.community/) and [Manim-Sl
 The presentation was created and presented using `manim-slides` by converting it into an HTML slideshow:
 
 ```sh
-manim present.py Titel Gliederung Superposition Verschraenkung BitsVergleich Gatter Parallel TSP Multiversum Ionen Herausforderungen Willow Anwendung RSA Zahl Fazit Quellen && \
+manim presentation.py Titel Gliederung Superposition Verschraenkung BitsVergleich Gatter Parallel TSP Multiversum Ionen Herausforderungen Willow Anwendung RSA Zahl Fazit Quellen && \
 manim-slides convert Titel Gliederung Superposition Verschraenkung BitsVergleich Gatter Parallel TSP Multiversum Ionen Herausforderungen Willow Anwendung RSA Zahl Fazit Quellen presentation.py
 ```
 
